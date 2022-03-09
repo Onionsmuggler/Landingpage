@@ -157,32 +157,36 @@ margin-top: 50px;
         gap: 32px;     
     }
 
-    .image-1 {
+    #image-1 {
         border: 5px solid #4F6D7C;
         border-radius: 12px;
         padding: 5px;
         width: 150px;
+        height: 150px;
     }
 
-    .image-2 {
+    #image-2 {
         border: 5px solid #4F6D7C;
         border-radius: 12px;
         padding: 5px;
         width: 150px;
+        height: 150px;
     }
 
-    .image-3 {
+    #image-3 {
         border: 5px solid #4F6D7C;
         border-radius: 12px;
         padding: 5px;
         width: 150px;
+        height: 150px;
     }
 
-    .image-4 {
+    #image-4 {
         border: 5px solid #4F6D7C;
         border-radius: 12px;
         padding: 5px;
         width: 150px;
+        height: 150px;
         
     }
 
@@ -191,6 +195,7 @@ margin-top: 50px;
         width: 150px;
         text-align: center;
         padding-top: 4px;
+       
     }
 
     .random {
