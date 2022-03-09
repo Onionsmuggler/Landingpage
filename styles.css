@@ -31,11 +31,6 @@ p {
     font-size: 30px;
 }
 
-img {
-    width: 100%;
-    height: auto;
-}
-
 li {
     list-style-type: none;
 }
@@ -165,6 +160,11 @@ margin-top: 50px;
         padding: 5px;
         width: 150px;
         height: 150px;
+    }
+
+    .display-image {
+        height: 100%;
+        width: 100%;
     }
 
     .subtext {
