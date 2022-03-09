@@ -158,6 +158,8 @@ margin-top: 50px;
     }
 
     #image-1 {
+        display: flex;
+        justify-content: center;
         border: 5px solid #4F6D7C;
         border-radius: 12px;
         padding: 5px;
@@ -166,6 +168,8 @@ margin-top: 50px;
     }
 
     #image-2 {
+        display: flex;
+        justify-content: center;
         border: 5px solid #4F6D7C;
         border-radius: 12px;
         padding: 5px;
@@ -174,6 +178,8 @@ margin-top: 50px;
     }
 
     #image-3 {
+        display: flex;
+        justify-content: center;
         border: 5px solid #4F6D7C;
         border-radius: 12px;
         padding: 5px;
@@ -182,6 +188,8 @@ margin-top: 50px;
     }
 
     #image-4 {
+        display: flex;
+        justify-content: center;
         border: 5px solid #4F6D7C;
         border-radius: 12px;
         padding: 5px;
